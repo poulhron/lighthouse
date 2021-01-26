@@ -11,6 +11,7 @@ const log = require('lighthouse-logger');
 const {registerLocaleData, lookupLocale} = require('../lighthouse-core/lib/i18n/i18n.js');
 const constants = require('../lighthouse-core/config/constants.js');
 
+const PI=3.14;
 /** @typedef {import('../lighthouse-core/gather/connections/connection.js')} Connection */
 
 /**
